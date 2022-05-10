@@ -1,0 +1,222 @@
+.MainPrice {
+  display: flex;
+  flex-direction: column; }
+
+.MainPrice.layout {
+  position: relative;
+   height: min-content; }
+
+.MainPrice__flex {
+  display: flex;
+  flex-direction: column; }
+
+.MainPrice__flex.layout {
+  position: relative;
+   height: min-content;
+  width: 86.53%;
+  margin: 27px auto; }
+  @media (max-width: 1399px) {
+    .MainPrice__flex1.layout {
+      width: 89.54%; } }
+  @media (max-width: 1199px) {
+    .MainPrice__flex1.layout {
+      width: 91.95%;
+      margin: 24px auto; } }
+  @media (max-width: 991px) {
+    .MainPrice__flex1.layout {
+      width: 93.84%;
+      margin: 20px auto; } }
+  @media (max-width: 767px) {
+    .MainPrice__flex1.layout {
+      width: 95.3%;
+      margin: 17px auto; } }
+  @media (max-width: 575px) {
+    .MainPrice__flex1.layout {
+      width: 96.44%;
+      margin: 15px auto; } }
+  @media (max-width: 479px) {
+    .MainPrice__flex1.layout {
+      width: 97.3%;
+      margin: 14px auto; } }
+  @media (max-width: 383px) {
+    .MainPrice__flex1.layout {
+      width: 97.96%;
+      margin: 13px auto; } }
+
+
+.MainPrice__Row-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 1 1 605px; }
+  @media (max-width: 1399px) {
+    .MainPrice__Row-item {
+      flex: 0 0 100%; } }
+
+
+.MainPrice__Row {
+  display: flex; }
+  @media (max-width: 1399px) {
+    .MainPrice__Row {
+      flex-wrap: wrap; } }
+
+.MainPrice__Row.layout {
+  position: relative;
+  height: min-content;
+  margin: 29px 1px 0px 6px; }
+  @media (max-width: 1199px) {
+    .MainPrice__Row.layout {
+      margin: 25px 5px 0px; } }
+  @media (max-width: 991px) {
+    .MainPrice__Row.layout {
+      margin: 22px 5px 0px; } }
+  @media (max-width: 767px) {
+    .MainPrice__Row.layout {
+      margin: 18px 5px 0px; } }
+  @media (max-width: 575px) {
+    .MainPrice__Row.layout {
+      margin: 17px 5px 0px; } }
+  @media (max-width: 479px) {
+    .MainPrice__Row.layout {
+      margin: 15px 5px 0px; } }
+  @media (max-width: 383px) {
+    .MainPrice__Row.layout {
+      margin: 14px 5px 0px; } }
+
+.MainPrice__Priceblock {
+  display: flex;
+  flex-direction: column;
+  background-color: #301b81;
+  border-radius: 20px; }
+
+.MainPrice__Priceblock.layout {
+  position: relative;
+  height: min-content;
+  margin: 0px 0px 5px; }
+  @media (max-width: 1199px) {
+    .MainPrice__Priceblock.layout {
+      margin: 0px 0px 5px; } }
+
+.MainPrice__Priceblock.layout1 {
+  position: relative;
+  height: min-content;
+  margin: 1px 0px 0px; }
+  @media (max-width: 1199px) {
+    .MainPrice__Priceblock.layout1 {
+      margin: 5px 0px 0px; } }
+
+.MainPrice__Priceflex {
+  display: flex;
+  flex-direction: column; }
+
+.MainPrice__Priceflex.layout {
+  position: relative;
+  height: min-content;
+  margin: 17px 15px; }
+  @media (max-width: 1199px) {
+    .MainPrice__Priceflex.layout {
+      margin: 15px 13px; } }
+  @media (max-width: 991px) {
+    .MainPrice__Priceflex.layout {
+      margin: 13px 11px; } }
+  @media (max-width: 767px) {
+    .MainPrice__Priceflex.layout {
+      margin: 11px 9px; } }
+  @media (max-width: 575px) {
+    .MainPrice__Priceflex.layout {
+      margin: 10px 9px; } }
+  @media (max-width: 479px) {
+    .MainPrice__Priceflex.layout {
+      margin: 9px 8px; } }
+  @media (max-width: 383px) {
+    .MainPrice__Priceflex.layout {
+      margin: 8px 7px; } } 
+
+.MainPrice__Detail {
+  display: flex; }
+
+.MainPrice__Detail.layout {
+  position: relative;
+   height: min-content;
+  width: 66.09%;
+  margin: 20px 0.17% 3px 33.74%; }
+  @media (max-width: 1199px) {
+    .MainPrice__Detail.layout {
+      margin: 18px 0.17% 5px 33.74%; } }
+  @media (max-width: 991px) {
+    .MainPrice__Detail.layout {
+      margin: 15px 0.17% 5px 33.74%; } }
+  @media (max-width: 767px) {
+    .MainPrice__Detail.layout {
+      margin: 13px 0.17% 5px 33.74%; } }
+  @media (max-width: 575px) {
+    .MainPrice__Detail.layout {
+      margin: 11px 0.17% 5px 33.74%; } }
+  @media (max-width: 479px) {
+    .MainPrice__Detail.layout {
+      margin: 10px 0.17% 5px 33.74%; } }
+
+.MainPrice__Detail-item {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  flex: 0 1 185px; }
+
+.MainPrice__block-spacer {
+  flex: 0 1 29px; }
+  @media (max-width: 1399px) {
+    .MainPrice__block-spacer {
+      display: none; } }
+      
+.MainPrice__Detail-spacer {
+  flex: 0 1 10px; }
+ 
+.MainPrice__cover-block {
+  display: flex;
+  flex-direction: column;
+  background-color: #A3A2E9;
+  border-radius: 20.5px; }
+
+.MainPrice__cover-block.layout {
+  position: relative;
+   height: min-content; }
+
+.Price__big-title {
+  font: 500 22px/1.2 "Montserrat";
+  color: white;
+  text-align: center;
+  letter-spacing: 0px; }
+  @media (max-width: 1199px) {
+    .Price__big-title {
+      font-size: 20px;
+      text-align: center; } }
+  @media (max-width: 991px) {
+    .Price__big-title {
+      font-size: 19px; } }
+  @media (max-width: 767px) {
+    .Price__big-title {
+      font-size: 18px; } }
+  @media (max-width: 575px) {
+    .Price__big-title {
+      font-size: 17px; } }
+  @media (max-width: 479px) {
+    .Price__big-title {
+      font-size: 16px; } }
+  @media (max-width: 383px) {
+    .Price__big-title {
+      font-size: 15px; } }
+
+.Price__big-title.layout {
+  position: relative;
+   height: min-content;
+  margin: 0px 0px 0px 7px; }
+  @media (max-width: 1199px) {
+    .Price__big-title.layout {
+      margin: 0px 0px 0px 6px; } }
+  @media (max-width: 991px) {
+    .Price__big-title.layout {
+      margin: 0px 0px 0px 5px; } }
+
+.Price__big-title.layout1 {
+  position: relative;
+   height: min-content; }
