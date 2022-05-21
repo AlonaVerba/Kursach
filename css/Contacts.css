@@ -63,7 +63,7 @@
 }
 
 .contacts-medium-title2 {
-  font: 700 25px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 700 25px/1.2 "Montserrat";
   color: white;
   letter-spacing: 0px;
 }
@@ -168,7 +168,7 @@
 }
 
 .contacts-medium-title3 {
-  font: 500 25px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 500 25px/1.2 "Montserrat";
   color: rgb(255, 255, 255);
   letter-spacing: 0px;
 }
