@@ -137,6 +137,18 @@
   text-decoration: none;
 }
 
+@media (max-width: 479px) {
+  .main-menu>li>a {
+    font-size: 13px;
+  }
+}
+
+@media (max-width: 391px) {
+  .main-menu>li>a {
+    font-size: 12px;
+  }
+}
+
 .main-menu>li>a:hover {
   text-decoration: none;
   color: #337AB7;
@@ -452,6 +464,7 @@
 .Main-title.layout {
   position: relative;
   height: min-content;
+  text-align: center;
   font-style: normal;
   font-weight: 500;
 

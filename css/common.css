@@ -84,7 +84,7 @@ code {
 
 
 
-@media (max-width: 99999px) {
+/* @media (max-width: 99999px) { 
     .max\:show {
         display: flex;
         flex-direction: column;
@@ -192,17 +192,6 @@ code {
         display: none;
     }
 }
-
-.headroom {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 10000;
-
-     transition: transform 200ms linear;
-}
-
 .headroom--pinned {
     transform: translateY(0%);
 }
