@@ -126,7 +126,7 @@
 .gam-section3__hero-title {
   display: flex;
   justify-content: flex-end;
-  font: 600 64px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 600 64px/1.2 "Montserrat";
   color: #301b81;
   text-align: right;
   letter-spacing: 0px;
@@ -315,7 +315,7 @@
   margin-top: 0px;
   margin-bottom: 0px;
   margin: 0px;
-  font: 40px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 40px/1.2 "Montserrat";
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -362,7 +362,7 @@
 .gam-section3__hero-title2 {
   display: flex;
   justify-content: center;
-  font: 495 40px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 495 40px/1.2 "Montserrat";
   color: #301b81;
   text-align: center;
   letter-spacing: 0px;
@@ -468,7 +468,7 @@
   height: -webkit-min-content;
   height: -moz-min-content;
   height: min-content;
-  margin: 50px 19px 0px 0px;
+  margin: 50px 19px 0px 19px;
 }
 
 @media (max-width: 1199px) {
@@ -528,7 +528,6 @@
 
 .gam-section3__image2.layout {
   position: relative;
-  margin-left: 20px;
   height: 314px;
 }
 
@@ -537,7 +536,7 @@
   margin-top: 0px;
   margin-bottom: 0px;
   margin: 0px;
-  font: 500 40px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 500 40px/1.2 "Montserrat";
   color: black;
   text-align: center;
   letter-spacing: 0px;
@@ -593,7 +592,7 @@
 .gam-section3__big-title {
   display: flex;
   justify-content: center;
-  font: 500 28px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 500 28px/1.2 "Montserrat";
   color: #301b81;
   text-align: center;
   letter-spacing: 0px;
@@ -712,7 +711,7 @@
 .gam-section3__hero-title6 {
   display: flex;
   justify-content: center;
-  font: 600 36px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 600 36px/1.2 "Montserrat";
   color: white;
   text-align: center;
   letter-spacing: 0px;

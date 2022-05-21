@@ -110,7 +110,7 @@
   margin: 0;
   padding: 0;
   margin-top: 30px;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat';
   /* Для выравнивания меню по центру
     display: flex;
     flex-wrap: wrap;
@@ -283,7 +283,7 @@
 
 .menu-main a {
   text-decoration: none;
-  font: 500 20px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 500 20px/1.2 "Montserrat";
   color: black;
 
   letter-spacing: 2px;
@@ -578,7 +578,7 @@
 .Medium-title {
   display: flex;
   justify-content: center;
-  font: 500 24px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 500 24px/1.2 "Montserrat";
   color: #301b81;
   text-align: center;
   letter-spacing: 0px;
@@ -766,7 +766,7 @@
 .footer__title {
   display: flex;
   justify-content: center;
-  font: 600 16px/1.2 "Montserrat", Helvetica, Arial, serif;
+  font: 600 16px/1.2 "Montserrat";
   color: #7966bf;
   margin: 2px 0px 0px 0px;
   ;
